@@ -1,4 +1,4 @@
-"""Routes for Coconut Grove.
+"""Routes for Coconut Groove.
 
 For now: just a landing page and a health check. Real flows come later.
 """

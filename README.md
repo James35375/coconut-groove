@@ -1,4 +1,4 @@
-# Coconut Grove
+# Coconut Groove
 
 Custom engraved coconuts — public-facing e-commerce site with AI-generated designs.
 
@@ -14,8 +14,8 @@ Custom engraved coconuts — public-facing e-commerce site with AI-generated des
 
 ```powershell
 # Clone
-git clone git@github.com:<you>/coconut-grove.git
-cd coconut-grove
+git clone git@github.com:<you>/coconut-groove.git
+cd coconut-groove
 
 # Virtual env
 python -m venv venv
@@ -43,7 +43,7 @@ Visit http://127.0.0.1:5000
 ## Project structure
 
 ```
-coconut-grove/
+coconut-groove/
 ├── app/
 │   ├── __init__.py       # Flask app factory
 │   ├── routes.py         # URL routes

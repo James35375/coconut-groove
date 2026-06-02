@@ -1,4 +1,4 @@
-"""Configuration for Coconut Grove.
+"""Configuration for Coconut Groove.
 
 Loads from environment variables (.env in dev, real env vars in prod).
 Different config classes for development vs production.
